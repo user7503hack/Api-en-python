@@ -86,5 +86,5 @@ def obtener_datos_usuario():
         print(ex)
         return jsonify({'message': 'Error al obtener información del usuario'}), 401
                 
-if __name__ == '__main__':
-    app.run(debug=True)
+#if __name__ == '__main__':
+#    app.run(debug=True)
