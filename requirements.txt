@@ -1,4 +1,3 @@
 flask
-jwt
-hashlib
+jwt0
 flask_cors
